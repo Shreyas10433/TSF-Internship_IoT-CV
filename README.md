@@ -10,3 +10,9 @@
 # Platforms Used
   - Google Colab
   - Anaconda Navigator
+
+# Tasks
+  -Task 1 - To identify an object from given image and create its mask copy
+  -Task 2 - To implement a color detector which identifies all the colors in an image or video. 
+
+  
